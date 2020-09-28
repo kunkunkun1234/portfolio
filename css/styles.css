@@ -1,0 +1,39 @@
+body {
+    background-color: #C2DEED;
+}
+
+.main__avatar {
+    border: 8px solid #2E68AB;
+}
+
+.main__table-skills {
+    border-color: #2E68AB;
+}
+
+.main__english-container {
+    background-color: #C2DEED;
+}
+
+.h4 {
+    line-height: 3rem;
+}
+
+.bg-primary {
+    background-color: #2E68AB !important;
+}
+
+.text-primary {
+    color: #2E68AB !important;
+}
+
+.bg-contrast {
+    background-color: #E1EFF6 !important;
+}
+
+.text-contrast {
+    color: #E1EFF6 !important;
+}
+
+.progress {
+    background-color: #EAF4F9;
+}
